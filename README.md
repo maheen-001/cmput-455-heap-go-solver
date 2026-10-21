@@ -1,6 +1,8 @@
 # Heap Go Solver
 
-A Python-based Heap Go solver using negamax search, alpha-beta pruning, and a transposition table to evaluate game positions under optimal play.
+A Python implementation of a Heap Go player developed for CMPUT 455 — Search and Planning in Artificial Intelligence at the University of Alberta.
+
+Uses negamax search, alpha-beta pruning, and a transposition table to evaluate game positions under optimal play.
 
 **Status:** Completed
 
